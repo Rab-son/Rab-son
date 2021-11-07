@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><center><img width="300px" height="300px" src="https://avatars.githubusercontent.com/u/31789242?s=400&u=37b059bfa3b1e43dad11b614e131e177dc34cd9c&v=4" style="border-radius: 50%;" /></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rabson Sayenda</h1>
 <h3 align="center">I Am a Passionate Web Developer from Malawi</h3>
