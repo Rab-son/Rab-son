@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently writing a book on **Exploring USSD Technology**
 
-- 🌱 I’m currently working as a **Computer Science Tutor**
+- 🌱 Worked as a **Computer Science Tutor**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
