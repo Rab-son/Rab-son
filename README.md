@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rabsonsayenda.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rabsonsayenda.herokuapp.com/)**
 
 - 📫 How to reach me **rabsonsayendajnr@gmail.com**
 
