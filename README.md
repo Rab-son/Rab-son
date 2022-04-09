@@ -70,7 +70,7 @@
 
 <a href = "https://www.linkedin.com/in/rabson-sayenda-malawi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCm1fOynL6sD3bFJYTCWnOEw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://api.whatsapp.com/send/?phone=%2B265886788210&text&app_absent=0"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+<a href = "https://api.whatsapp.com/send/?phone=%2B265980039048&text&app_absent=0"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
 </p>
 
 ## ❤ Views and Followers
