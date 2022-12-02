@@ -1,7 +1,7 @@
 <a href="#"><p align="center"><img width="300px" height="300px" src="https://avatars.githubusercontent.com/u/31789242?v=4" style="border-radius: 50%" /></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rabson Sayenda</h1>
-<h3 align="center">I Am a Web Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.laravel.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/laravel-logo.png"/> </a>
+    <a href="https://www.laravel.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blade-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
