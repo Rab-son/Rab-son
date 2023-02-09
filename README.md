@@ -10,8 +10,6 @@
 
 - 🌱 Worked as a **Software Engineer Engineer and Computer Science Tutor**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 Check out my portfolisite at **[Mysite](https://rabsonsayend.netlify.app/)**
 
 - 📫 How to reach me **rabsonsayendajnr@gmail.com**
