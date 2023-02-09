@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m currently working as a **Software Developer (Freelancer)**
 
-- 🌱 Worked as a **Computer Science Tutor**
+- 🌱 Worked as a **Software Engineer Engineer and Computer Science Tutor**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Check out my portfolisite at **[Mysite](https://rabsonsayenda.herokuapp.com/)**
+- 👨‍💻 Check out my portfolisite at **[Mysite](https://rabsonsayend.netlify.app/)**
 
 - 📫 How to reach me **rabsonsayendajnr@gmail.com**
 
