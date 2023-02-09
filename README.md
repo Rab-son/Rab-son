@@ -10,7 +10,7 @@
 
 - 🌱 Worked as a **Software Engineer Engineer and Computer Science Tutor**
 
-- 👨‍💻 Check out my portfolisite at **[Mysite](https://rabsonsayenda.netlify.app/)**
+- 👨‍💻 Check out my portfolisite at **[Mysite](https://rabsonsayenda.netlify.app/){:target="_blank"}**
 
 - 📫 How to reach me **rabsonsayendajnr@gmail.com**
 
