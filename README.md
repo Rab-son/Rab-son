@@ -1,7 +1,7 @@
 <a href="#"><p align="center"><img width="300px" height="300px" src="https://avatars.githubusercontent.com/u/31789242?v=4" style="border-radius: 50%" /></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rabson Sayenda</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 ## 🙋‍♂️ About Me
