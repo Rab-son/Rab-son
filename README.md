@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Software Developer (Freelancer)**
+- 🔭 I’m currently working as a **Mobile Money Integrations Specialist for Telekom Networks Malawi**
 
 - 🌱 Worked as a **Software Engineer Engineer and Computer Science Tutor**
 
-- 👨‍💻 Check out my portfolisite at **<a href="https://rabsonsayenda.netlify.app/" target="_blank">Mysite</a>**
+- 👨‍💻 Check out my portfolisite at **<a href="https://rabsonsayendamysite.netlify.app/" target="_blank">Mysite</a>**
 
 - 📫 How to reach me **rabsonsayendajnr@gmail.com**
 
